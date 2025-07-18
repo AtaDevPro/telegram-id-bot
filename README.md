@@ -50,4 +50,4 @@ From a protected user → Informs user that ID cannot be retrieved.
 MIT License – Use freely and contribute if you'd like!
 
 
-Made with ❤️ by AtaDevPro(https://github.com/AtaDevPro)
+Made with ❤️ by [AtaDevPro](https://github.com/AtaDevPro)
